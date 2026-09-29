@@ -24,4 +24,4 @@
    - Файлы `node_modules` и `dist` исключены из Git через `.gitignore`. Команда `npm ci` и последующий билд воспроизводятся с нуля.
 
 ## Идентификатор коммита ЛР 1
-- **Commit:** `PENDING`
+- **Commit:** `7827545` (ветка `main`, сообщение: `Lab 1: create React TypeScript app`)
